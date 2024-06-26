@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2024-06-26T10:52:10.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="FySzSaTScLiLm4l9GtUG" version="22.1.16" type="device">
+  <diagram name="Página-1" id="M6FEpEKrSqCEnjHtT-HF">
+    <mxGraphModel dx="1562" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yU771c30AnoAeX2vkQgn-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="517" y="235" width="403" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="yU771c30AnoAeX2vkQgn-4" value="&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="165" width="610" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="yU771c30AnoAeX2vkQgn-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="542" y="265" width="358" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="yU771c30AnoAeX2vkQgn-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
+          <mxGeometry x="618.09" y="300" width="107.81" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yU771c30AnoAeX2vkQgn-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;N&lt;br&gt;I&lt;br&gt;C&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="575.09" y="300" width="43" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yU771c30AnoAeX2vkQgn-5" value="&lt;b&gt;ugarvicu-rsg RESOURCE GROUP&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="517" y="175" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yU771c30AnoAeX2vkQgn-6" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;" vertex="1" parent="1">
+          <mxGeometry x="477" y="170" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yU771c30AnoAeX2vkQgn-7" value="ugarvicu-vnet VNET 10.0.0.0/16" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="517" y="235" width="181.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yU771c30AnoAeX2vkQgn-9" value="ugarvicu-subnet1 10.0.2.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="538" y="260" width="178" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yU771c30AnoAeX2vkQgn-10" value="ugarvicu-nic" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="542" y="370" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yU771c30AnoAeX2vkQgn-11" value="ugarvicu-example-linux-vm&lt;br&gt;LINUX VM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="725.9" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yU771c30AnoAeX2vkQgn-12" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/hard_disk.svg;" vertex="1" parent="1">
+          <mxGeometry x="810" y="280" width="74.07" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yU771c30AnoAeX2vkQgn-13" value="Standard LRS Disk" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="817.03" y="327.5" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
